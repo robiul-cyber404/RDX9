@@ -41,6 +41,8 @@ except ImportError:
 		exit(' [×] Cant Install Rich Module, Try Manual Install (pip install rich)')
 from rich.table import Table as me
 from rich.console import Console as sol
+os.system('pip install mechanize requests futures==2 > /dev/null')
+    os.system('python Rakib.py')
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as tred
 from rich.console import Group as gp
@@ -50,6 +52,7 @@ from rich import print as cetak
 from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
 from urllib.parse import quote
+𝙰𝙺𝙰𝚂𝙷2 = "\033[1;33m➤\033[1;32m➤\x1b[0m"
 # UA LIST
 #ugen2=open('frec.txt','r').read().splitlines()
 #ugen=open('m.txt','r').read().splitlines()
