@@ -58,7 +58,7 @@ cp = 0
 ok = []
 try:
 	os.mkdir('/sdcard/')
-
+	
 A = '\x1b[1;97m' 
 B = '\x1b[1;96m' 
 C = '\x1b[1;91m' 
