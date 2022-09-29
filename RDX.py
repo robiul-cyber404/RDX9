@@ -53,7 +53,7 @@ try:
     from requests.exceptions import ConnectionError
 except ModuleNotFoundError:
     os.system('pip install mechanize requests futures==2 > /dev/null')
-    os.system('python 𝙰𝙺𝙰𝚂𝙷.py')
+    os.system('python Rakib.py')
 from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
@@ -78,7 +78,7 @@ GREEN = '\033[1;32m' #
 YELLOW = '\033[1;33m'
 BLUE = '\033[1;34m'
 ORANGE = '\033[1;35m'
-HBF = '{ HBF }'
+HBF = '{ RAKIB}'
 now = datetime.now()
 dt_string = now.strftime("%H:%M")
 current = datetime.now()
@@ -86,7 +86,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-𝙰𝙺𝙰𝚂𝙷2 = "\033[1;33m➤\033[1;32m➤\x1b[0m"
+Rakib2= "\033[1;33m➤\033[1;32m➤\x1b[0m"
 for xd in range(10000):
     x='Mozilla/5.0 (Linux; U; Android'
     b=random.choice(['6','7','8','9','10','11','12'])
@@ -312,7 +312,7 @@ def xyz():
         
         password()
     elif RAKIB in ["2","02"]:
-        Rakib2()
+        Tabii2()
         
     elif RAKIB in ["3","03"]:
         os.system("xdg-open https://www.facebook.com/Itz.AriYaN.Sakib.Take.love");xyz()
@@ -335,7 +335,7 @@ def password():
     print(f"{RED}[03] {WHITE} 5 PASSWORDS  {GREEN} [ SLOW   🐌]")
     linex()
     print("")
-    passX = input(f" {RED}CHOOSE{RAKIB2} : ")
+    passX = input(f" {RED}CHOOSE{Rakib2} : ")
     if passX in ['1','01']:
         os.system("xdg-open https://www.facebook.com/Itz.AriYaN.Sakib.Take.love")
         password1()
