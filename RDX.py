@@ -262,7 +262,7 @@ def xyz():
     print('           \x1b[97m[\033[37;41m  M A I N   M E N U   \033[0;m] ')
     print(f"")
     print(f'{BLUE}══════════════════════════════════════════════════════')
-    print(f" {WHITE}TODAY DATE & TIME     :
+    
     print(f"{BLUE}══════════════════════════════════════════════════════")
     print(f"{RED}[01] {WHITE}RANDOM CLONE PAK  M1")
     print(f"{RED}[02] {WHITE}RANDOM CLONE BD  M1")
@@ -351,8 +351,7 @@ def password1():
         tl = str(len(user))
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ FASTEST⚡]")
         print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
-        print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
-        print(f" {WHITE}TODAY DATE & TIME     : 
+        print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)       
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
         print(f'{RED}==========================================================')
         for love in user:
@@ -474,8 +473,7 @@ def password2():
         tl = str(len(user))
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ FAST ]")
         print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
-        print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
-        print(f" {WHITE}TODAY DATE & TIME     :
+        print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)     
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
         print(f'{RED}==========================================================')
         for love in user:
@@ -540,9 +538,9 @@ def free2(uid,pwx,tl):
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_CP.mp3")
-                    print(f'\r\033[1;30m[𝙰𝙺𝙰𝚂𝙷-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_CP.mp3")
+                    print(f'\r\033[1;30m[Rakib-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RAKIB-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
@@ -591,8 +589,7 @@ def password5():
         tl = str(len(user))
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ SLOW 🐌]")
         print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
-        print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
-        print(f" {WHITE}TODAY DATE & TIME     :
+        print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)   
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
         print(f'{RED}==========================================================')
         for love in user:
