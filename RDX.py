@@ -117,8 +117,7 @@ if ltx > 12:
 else:
     a = ltx
     tag = "AM"
-logo =f"""{BLUE}
-88""Yb    db    88  dP 88 88""Yb 
+logo =f"""{BLUE}88""Yb    db    88  dP 88 88""Yb 
 88__dP   dPYb   88odP  88 88__dP 
 88"Yb   dP__Yb  88"Yb  88 88""Yb 
 88  Yb dP""""Yb 88  Yb 88 88oodP 
