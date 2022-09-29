@@ -253,7 +253,6 @@ def cek_apk(session,coki):
             print(57*'-')
 
 
-#---------------------[MAIN MENU]---------------------#
 def xyz():
     os.system("play-audio WELCOME_TO_RAKIB_RANDOM_CLONE_TOOL.mp3")
     os.getuid
@@ -287,7 +286,7 @@ def xyz():
     else:
         print('\033[1;31mINCORECT OPTION!\033[1;31m')
         xyz()
-#---------------------[PASS DEF]---------------------#
+
 def password():
     
     os.system("clear")
@@ -311,8 +310,7 @@ def password():
         password5()
     else:
         xyz()
-#---------------------[CLONING MAIN DEF]---------------------#
-#---------------------[PASS 1 CLONING MENU]---------------------#
+
 def password1():
     
     user=[]
@@ -430,12 +428,6 @@ def free1(uid,pwx,tl):
     except:
         pass
 
-
-
-
-
-
-#---------------------[PASS 2 CLONING MENU]---------------------#
 def password2():
     user=[]
     
@@ -551,7 +543,7 @@ def free2(uid,pwx,tl):
         checks(ok,cp)
     except:
         pass
-#---------------------[PASS 5 CLONING MENU]---------------------#
+
 def password5():
     user=[]
     
@@ -667,8 +659,6 @@ def free(uid,pwx,tl):
         checks(ok,cp)
     except:
         pass
-#---------------------[MAIN CLONING DEF 2]---------------------#
-
 
 def Tabii2():
     user=[]
@@ -815,7 +805,5 @@ def Subscraption():
 xyz()
 
 
-
-#---------------------[END MENU]---------------------#
 if __name__ == '__main__':
     xyz()
