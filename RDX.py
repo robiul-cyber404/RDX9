@@ -50,7 +50,7 @@ from rich import print as cetak
 from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
 from urllib.parse import quote
-𝙰𝙺𝙰𝚂𝙷2 = "\033[1;33m➤\033[1;32m➤\x1b[0m"
+RAKIB2 = "\033[1;33m➤\033[1;32m➤\x1b[0m"
 # UA LIST
 #ugen2=open('frec.txt','r').read().splitlines()
 #ugen=open('m.txt','r').read().splitlines()
