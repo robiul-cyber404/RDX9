@@ -117,15 +117,11 @@ if ltx > 12:
 else:
     a = ltx
     tag = "AM"
-logo =f"""{BLUE}.sSSSsSS SSsSSSSS .sSSSSs.            .sSSSSs.    .sSSSSs.    .sSSS  SSSSS  SSSSS .sSSSSs.    
-SSSSS  SSS  SSSSS SSSSSSSSSs.         SSSSSSSSSs. SSSSSSSSSs. SSSSS  SSSSS  SSSSS SSSSSSSSSs. 
-S SSS   S   SSSSS S SSS SSSSS         S SSS SSSSS S SSS SSSSS S SSS SSSSS   S SSS S SSS SSSSS 
-S  SS       SSSSS S  SS SSSS'         S  SS SSSS' S  SS SSSSS S  SS SSSSS   S  SS S  SS SSSS' 
-S..SS       SSSSS S..SSsSSSa. sssssss S..SSsSSSa. S..SSsSSSSS S..SSsSSSSS   S..SS S..SSsSSSa. 
-S:::S       SSSSS S:::S SSSSS         S:::S SSSSS S:::S SSSSS S:::S SSSSS   S:::S S:::S SSSSS 
-S;;;S       SSSSS S;;;S SSSSS         S;;;S SSSSS S;;;S SSSSS S;;;S  SSSSS  S;;;S S;;;S SSSSS 
-S%%%S       SSSSS S%%%S SSSSS         S%%%S SSSSS S%%%S SSSSS S%%%S  SSSSS  S%%%S S%%%S SSSSS 
-SSSSS       SSSSS SSSSS SSSSS         SSSSS SSSSS SSSSS SSSSS SSSSS   SSSSS SSSSS SSSSSsSSSS' 
+logo =f"""{BLUE}
+88""Yb    db    88  dP 88 88""Yb 
+88__dP   dPYb   88odP  88 88__dP 
+88"Yb   dP__Yb  88"Yb  88 88""Yb 
+88  Yb dP""""Yb 88  Yb 88 88oodP 
                                                                                               
 \033[1;37m╔═════════════════\033[1;33\033[1;37m══════════════╗
 \033[1;31m│\033[1;32m☞  \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32mMR RAKIB   \033[1;31m
@@ -815,7 +811,7 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
-		os.system('am start https://wa.me/+8801923092304?text=' + tks)
+		os.system('am start https://wa.me/+9660531382117?text=' + tks)
 		Subscraption()        
 Subscraption()
 
