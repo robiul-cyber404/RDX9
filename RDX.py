@@ -41,8 +41,6 @@ except ImportError:
 		exit(' [×] Cant Install Rich Module, Try Manual Install (pip install rich)')
 from rich.table import Table as me
 from rich.console import Console as sol
-os.system('pip install mechanize requests futures==2 > /dev/null')
-    os.system('python Rakib.py')
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as tred
 from rich.console import Group as gp
