@@ -262,7 +262,7 @@ def xyz():
     print('           \x1b[97m[\033[37;41m  M A I N   M E N U   \033[0;m] ')
     print(f"")
     print(f'{BLUE}══════════════════════════════════════════════════════')
-    print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f" {WHITE}TODAY DATE & TIME     :
     print(f"{BLUE}══════════════════════════════════════════════════════")
     print(f"{RED}[01] {WHITE}RANDOM CLONE PAK  M1")
     print(f"{RED}[02] {WHITE}RANDOM CLONE BD  M1")
@@ -352,7 +352,7 @@ def password1():
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ FASTEST⚡]")
         print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
         print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
-        print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f" {WHITE}TODAY DATE & TIME     : 
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
         print(f'{RED}==========================================================')
         for love in user:
@@ -475,7 +475,7 @@ def password2():
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ FAST ]")
         print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
         print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
-        print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f" {WHITE}TODAY DATE & TIME     :
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
         print(f'{RED}==========================================================')
         for love in user:
@@ -592,7 +592,7 @@ def password5():
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ SLOW 🐌]")
         print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
         print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
-        print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f" {WHITE}TODAY DATE & TIME     :
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
         print(f'{RED}==========================================================')
         for love in user:
